@@ -117,6 +117,10 @@ img{
   text-align: center;
 }
 
+.impressum-subtitle{
+  text-align: left;
+}
+
 .section-title-item, .section-subtitle-item{
   text-align: left;
 }
@@ -134,6 +138,13 @@ img{
 }
 
 .section-subtitle{
+  display: block;
+  color: var(--first-color);
+  font-weight: var(--font-medium);
+  margin-bottom: var(--mb-1);
+}
+
+.impressum-subtitle{
   display: block;
   color: var(--first-color);
   font-weight: var(--font-medium);
@@ -364,6 +375,16 @@ img{
   justify-content: center;
 }
 
+.blogs__container{
+  grid-template-columns: repeat(2, 1fr);
+  justify-content: center;
+}
+
+.blogpost__container{
+  grid-template-columns: repeat(1, 1fr);
+  justify-content: center;
+}
+
 .menu__content{
   position: relative;
   display: flex;
@@ -378,6 +399,21 @@ img{
   width: 100px;
   align-self: center;
   margin-bottom: var(--mb-2);
+}
+
+.blogs__img{
+  display: flex;
+  align-self: center;
+  margin-bottom: var(--mb-2);
+}
+
+.blogs_h3{
+  font-size: var(--normal-font-size);
+  margin-bottom: var(--mb-1);
+}
+
+.read_more{
+  color: var(--first-color);
 }
 
 .menu__name, .menu__preci{
@@ -395,6 +431,10 @@ img{
 
 .menu__detail{
   margin-bottom: var(--mb-1);
+}
+
+.blogs_p{
+  margin-bottom: var(--mb-3);
 }
 
 .menu__button{
@@ -432,6 +472,10 @@ img{
 /*========== CONTACT ==========*/
 .contact__container{
   text-align: center;
+}
+
+.impressum__container{
+  text-align: left;
 }
 
 .contact__description{
@@ -488,6 +532,13 @@ img{
 .yo{
   font-weight: bold;
   color: #d62d2d;
+}
+
+@media screen and (max-width: 420px){
+  .blogs__container{
+    grid-template-columns: repeat(1, 1fr);
+    justify-content: center;
+  }
 }
 
 /*========== MEDIA QUERIES ==========*/
