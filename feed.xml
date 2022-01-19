@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Nusantara Markt</title>
-    <link href="https://nusantara-markt.github.io/feed.xml" rel="self" />
-    <link href="https://nusantara-markt.github.io" />
+    <link href="https://nusantara-markt.com/feed.xml" rel="self" />
+    <link href="https://nusantara-markt.com" />
     <updated>2022-01-19T10:07:26+01:00</updated>
     <author>
         <name>IndoGoods</name>
     </author>
-    <id>https://nusantara-markt.github.io</id>
+    <id>https://nusantara-markt.com</id>
 
     <entry>
         <title>Career</title>
         <author>
             <name>IndoGoods</name>
         </author>
-        <link href="https://nusantara-markt.github.io/career.html"/>
-        <id>https://nusantara-markt.github.io/career.html</id>
+        <link href="https://nusantara-markt.com/career.html"/>
+        <id>https://nusantara-markt.com/career.html</id>
 
         <updated>2022-01-19T07:42:27+01:00</updated>
             <summary>
@@ -25,7 +25,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image"><img loading="lazy"  src="https://nusantara-markt.github.io/media/posts/14/Untitled-4.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://nusantara-markt.github.io/media/posts/14/responsive/Untitled-4-xs.jpg 384w ,https://nusantara-markt.github.io/media/posts/14/responsive/Untitled-4-sm.jpg 600w ,https://nusantara-markt.github.io/media/posts/14/responsive/Untitled-4-md.jpg 768w ,https://nusantara-markt.github.io/media/posts/14/responsive/Untitled-4-lg.jpg 1200w"  alt="" width="1002" height="430"></figure>
+                <figure class="post__image"><img loading="lazy"  src="https://nusantara-markt.com/media/posts/14/Untitled-4.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://nusantara-markt.com/media/posts/14/responsive/Untitled-4-xs.jpg 384w ,https://nusantara-markt.com/media/posts/14/responsive/Untitled-4-sm.jpg 600w ,https://nusantara-markt.com/media/posts/14/responsive/Untitled-4-md.jpg 768w ,https://nusantara-markt.com/media/posts/14/responsive/Untitled-4-lg.jpg 1200w"  alt="" width="1002" height="430"></figure>
 <p>We have no open position for now. Please come back later.</p>
             ]]>
         </content>
@@ -35,8 +35,8 @@
         <author>
             <name>IndoGoods</name>
         </author>
-        <link href="https://nusantara-markt.github.io/submit-your-products.html"/>
-        <id>https://nusantara-markt.github.io/submit-your-products.html</id>
+        <link href="https://nusantara-markt.com/submit-your-products.html"/>
+        <id>https://nusantara-markt.com/submit-your-products.html</id>
 
         <updated>2022-01-19T07:12:30+01:00</updated>
             <summary>
@@ -46,12 +46,12 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image"><img loading="lazy"  src="https://nusantara-markt.github.io/media/posts/13/Untitled-3.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://nusantara-markt.github.io/media/posts/13/responsive/Untitled-3-xs.jpg 384w ,https://nusantara-markt.github.io/media/posts/13/responsive/Untitled-3-sm.jpg 600w ,https://nusantara-markt.github.io/media/posts/13/responsive/Untitled-3-md.jpg 768w ,https://nusantara-markt.github.io/media/posts/13/responsive/Untitled-3-lg.jpg 1200w"  alt="" width="1002" height="430"></figure>
-<p>Are you one of our <a href="https://nusantara-markt.github.io/partnership-application.html">partners</a>? You can submit your products and we will help you promote them in our website and other social platforms.</p>
+                <figure class="post__image"><img loading="lazy"  src="https://nusantara-markt.com/media/posts/13/Untitled-3.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://nusantara-markt.com/media/posts/13/responsive/Untitled-3-xs.jpg 384w ,https://nusantara-markt.com/media/posts/13/responsive/Untitled-3-sm.jpg 600w ,https://nusantara-markt.com/media/posts/13/responsive/Untitled-3-md.jpg 768w ,https://nusantara-markt.com/media/posts/13/responsive/Untitled-3-lg.jpg 1200w"  alt="" width="1002" height="430"></figure>
+<p>Are you one of our <a href="https://nusantara-markt.com/partnership-application.html">partners</a>? You can submit your products and we will help you promote them in our website and other social platforms.</p>
 <p>You can download our Product Submission Form on the link below:</p>
 <ul>
-<li>English: <a href="https://nusantara-markt.github.io/Product Submission Form_English.pdf" target="_blank" rel="noopener noreferrer" download>download</a></li>
-<li>Indonesia: <a href="https://nusantara-markt.github.io/Product Submission Form_Indonesia.pdf" target="_blank" rel="noopener noreferrer">download</a></li>
+<li>English: <a href="https://nusantara-markt.com/Product Submission Form_English.pdf" target="_blank" rel="noopener noreferrer" download>download</a></li>
+<li>Indonesia: <a href="https://nusantara-markt.com/Product Submission Form_Indonesia.pdf" target="_blank" rel="noopener noreferrer">download</a></li>
 </ul>
 <p>Send the Form to our email: <a href="mailto:info@nusantara-markt.com">info@nusantara-markt.com</a></p>
             ]]>
@@ -62,8 +62,8 @@
         <author>
             <name>IndoGoods</name>
         </author>
-        <link href="https://nusantara-markt.github.io/partnership-application.html"/>
-        <id>https://nusantara-markt.github.io/partnership-application.html</id>
+        <link href="https://nusantara-markt.com/partnership-application.html"/>
+        <id>https://nusantara-markt.com/partnership-application.html</id>
 
         <updated>2022-01-19T06:46:35+01:00</updated>
             <summary>
@@ -73,12 +73,12 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image"><img loading="lazy"  src="https://nusantara-markt.github.io/media/posts/12/Untitled-2.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://nusantara-markt.github.io/media/posts/12/responsive/Untitled-2-xs.jpg 384w ,https://nusantara-markt.github.io/media/posts/12/responsive/Untitled-2-sm.jpg 600w ,https://nusantara-markt.github.io/media/posts/12/responsive/Untitled-2-md.jpg 768w ,https://nusantara-markt.github.io/media/posts/12/responsive/Untitled-2-lg.jpg 1200w"  alt="" width="1002" height="430"></figure>
+                <figure class="post__image"><img loading="lazy"  src="https://nusantara-markt.com/media/posts/12/Untitled-2.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://nusantara-markt.com/media/posts/12/responsive/Untitled-2-xs.jpg 384w ,https://nusantara-markt.com/media/posts/12/responsive/Untitled-2-sm.jpg 600w ,https://nusantara-markt.com/media/posts/12/responsive/Untitled-2-md.jpg 768w ,https://nusantara-markt.com/media/posts/12/responsive/Untitled-2-lg.jpg 1200w"  alt="" width="1002" height="430"></figure>
 <p>We believe in partnerships. We believe in long-term relationships that bring value to both businesses. We believe in win-wins. We care about your products and we want to promote them as your partner.</p>
 <p>You can download our Partnership Application form on this link below:</p>
 <ul>
-<li>English: <a href="https://nusantara-markt.github.io/Partnership Form_English.pdf" target="_blank" rel="noopener noreferrer" download>download</a></li>
-<li>Indonesia: <a href="https://nusantara-markt.github.io/Partnership Form_Indonesia.pdf" target="_blank" rel="noopener noreferrer" download>download</a></li>
+<li>English: <a href="https://nusantara-markt.com/Partnership Form_English.pdf" target="_blank" rel="noopener noreferrer" download>download</a></li>
+<li>Indonesia: <a href="https://nusantara-markt.com/Partnership Form_Indonesia.pdf" target="_blank" rel="noopener noreferrer" download>download</a></li>
 </ul>
 <p>Send the application form to our email: <a href="mailto:info@nusantara-markt.com">info@nusantara-markt.com</a></p>
             ]]>
@@ -89,8 +89,8 @@
         <author>
             <name>IndoGoods</name>
         </author>
-        <link href="https://nusantara-markt.github.io/privacy-policy.html"/>
-        <id>https://nusantara-markt.github.io/privacy-policy.html</id>
+        <link href="https://nusantara-markt.com/privacy-policy.html"/>
+        <id>https://nusantara-markt.com/privacy-policy.html</id>
 
         <updated>2022-01-19T10:07:26+01:00</updated>
             <summary>
@@ -264,8 +264,8 @@
         <author>
             <name>IndoGoods</name>
         </author>
-        <link href="https://nusantara-markt.github.io/impressum.html"/>
-        <id>https://nusantara-markt.github.io/impressum.html</id>
+        <link href="https://nusantara-markt.com/impressum.html"/>
+        <id>https://nusantara-markt.com/impressum.html</id>
 
         <updated>2022-01-19T07:45:00+01:00</updated>
             <summary>
@@ -291,8 +291,8 @@
         <author>
             <name>IndoGoods</name>
         </author>
-        <link href="https://nusantara-markt.github.io/about-us.html"/>
-        <id>https://nusantara-markt.github.io/about-us.html</id>
+        <link href="https://nusantara-markt.com/about-us.html"/>
+        <id>https://nusantara-markt.com/about-us.html</id>
 
         <updated>2022-01-18T13:25:19+01:00</updated>
             <summary>
@@ -302,7 +302,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <h2><figure class="post__image"><img loading="lazy"  src="https://nusantara-markt.github.io/media/posts/9/Untitled-1.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://nusantara-markt.github.io/media/posts/9/responsive/Untitled-1-xs.jpg 384w ,https://nusantara-markt.github.io/media/posts/9/responsive/Untitled-1-sm.jpg 600w ,https://nusantara-markt.github.io/media/posts/9/responsive/Untitled-1-md.jpg 768w ,https://nusantara-markt.github.io/media/posts/9/responsive/Untitled-1-lg.jpg 1200w"  alt="" width="1002" height="430"></figure></h2>
+                <h2><figure class="post__image"><img loading="lazy"  src="https://nusantara-markt.com/media/posts/9/Untitled-1.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://nusantara-markt.com/media/posts/9/responsive/Untitled-1-xs.jpg 384w ,https://nusantara-markt.com/media/posts/9/responsive/Untitled-1-sm.jpg 600w ,https://nusantara-markt.com/media/posts/9/responsive/Untitled-1-md.jpg 768w ,https://nusantara-markt.com/media/posts/9/responsive/Untitled-1-lg.jpg 1200w"  alt="" width="1002" height="430"></figure></h2>
 <h2>Connect Business, Build Opportunities</h2>
 <p>Currently Indonesia has around 64 million small and micro business. On the other hand, the number of overseas Indonesian is growing bigger every year. The needs for Indonesian products and commodities are currently being handled by Indonesian retail shops overseas. </p>
 <p>We make it our mission to connect every small and micro business in Indonesia with all Indonesian retail shops around the globe.</p>
@@ -314,19 +314,19 @@
         <author>
             <name>IndoGoods</name>
         </author>
-        <link href="https://nusantara-markt.github.io/indonesian-herbs-and-spices.html"/>
-        <id>https://nusantara-markt.github.io/indonesian-herbs-and-spices.html</id>
+        <link href="https://nusantara-markt.com/indonesian-herbs-and-spices.html"/>
+        <id>https://nusantara-markt.com/indonesian-herbs-and-spices.html</id>
 
         <updated>2022-01-13T16:06:05+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://nusantara-markt.github.io/media/posts/8/blogs_header-1.jpg" alt="" />
+                        <img src="https://nusantara-markt.com/media/posts/8/blogs_header-1.jpg" alt="" />
                     Indonesian cuisine is rich in spice and herbs. From the simplest dish like Sambal to the complicated, slow-cooked Rendang, herbs&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://nusantara-markt.github.io/media/posts/8/blogs_header-1.jpg" alt="" />
+                    <img src="https://nusantara-markt.com/media/posts/8/blogs_header-1.jpg" alt="" />
                 <p class="blogs_p">Indonesian cuisine is rich in spice and herbs. From the simplest dish like Sambal to the complicated, slow-cooked Rendang, herbs are indeed important ingredients to add flavor and aroma to the foods.</p>
 <p class="blogs_p">Although it seems that Indonesian cooking is very difficult, it’s not really true. In fact it’s really easy, if you know the types of herbs you are going to use in the cooking, and how to use them.</p>
 <p class="blogs_p">Below are some of the essential herbs (Bahasa: bumbu dapur) used in Indonesian dishes, that you might be not familiar with:</p>
@@ -365,39 +365,39 @@
         <author>
             <name>IndoGoods</name>
         </author>
-        <link href="https://nusantara-markt.github.io/12-best-indonesian-cuisine.html"/>
-        <id>https://nusantara-markt.github.io/12-best-indonesian-cuisine.html</id>
+        <link href="https://nusantara-markt.com/12-best-indonesian-cuisine.html"/>
+        <id>https://nusantara-markt.com/12-best-indonesian-cuisine.html</id>
 
         <updated>2022-01-13T16:05:38+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://nusantara-markt.github.io/media/posts/7/blogs_header.jpg" alt="" />
+                        <img src="https://nusantara-markt.com/media/posts/7/blogs_header.jpg" alt="" />
                     The variety of Indonesian foods is as diverse as its cultures. Each and every area of Indonesia has its own&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://nusantara-markt.github.io/media/posts/7/blogs_header.jpg" alt="" />
+                    <img src="https://nusantara-markt.com/media/posts/7/blogs_header.jpg" alt="" />
                 <p class="blogs_p">The variety of Indonesian foods is as diverse as its cultures. Each and every area of Indonesia has its own specialty foods that you cannot find in anywhere else. Some are seasonal menus that only appear during certain times of the year.</p>
 <p class="blogs_p">Regardless of the diversity of Indonesian culinary, there are some familiar foods that interestingly, many Indonesians cannot live without. Some of these foods are in the must-bring list whenever they go or live abroad for a while.</p>
 <p class="blogs_p">Indonesian food really deserves some time in the limelight, and this post is dedicated to the foods all-time favorites. Oh, these foods are also must-try for anyone who has just landed in Indonesia!</p>
 <h3>Sambal</h3>
-<h2><figure class="post__image align-center"><img loading="lazy"  src="https://nusantara-markt.github.io/media/posts/7/sambal.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://nusantara-markt.github.io/media/posts/7/responsive/sambal-xs.jpg 384w ,https://nusantara-markt.github.io/media/posts/7/responsive/sambal-sm.jpg 600w ,https://nusantara-markt.github.io/media/posts/7/responsive/sambal-md.jpg 768w ,https://nusantara-markt.github.io/media/posts/7/responsive/sambal-lg.jpg 1200w"  alt="" width="1000" height="444"></figure></h2>
+<h2><figure class="post__image align-center"><img loading="lazy"  src="https://nusantara-markt.com/media/posts/7/sambal.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://nusantara-markt.com/media/posts/7/responsive/sambal-xs.jpg 384w ,https://nusantara-markt.com/media/posts/7/responsive/sambal-sm.jpg 600w ,https://nusantara-markt.com/media/posts/7/responsive/sambal-md.jpg 768w ,https://nusantara-markt.com/media/posts/7/responsive/sambal-lg.jpg 1200w"  alt="" width="1000" height="444"></figure></h2>
 <p class="blogs_p">Who doesn’t know Sambal? While this is technically more of a condiment, the chili sauce is a staple at all Indonesian table. Dishes are incomplete without a spoonful of the sauce made of fresh chili, shrimp paste, tomatoes, and sometimes fresh lime juice or young mango flesh.</p>
 <p class="blogs_p">Nowadays you don’t need to crush all of those ingredients with mortar to get the sizzling hot Sambal—there are many ready-to-eat packed Sambals that you can buy at the supermarket. These sambals are packaged in a tight-lidded jar, so you can bring them anywhere or even as souvenirs.</p>
 <h3>Indomie</h3>
-<figure class="post__image align-center"><img loading="lazy"  src="https://nusantara-markt.github.io/media/posts/7/indomie.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://nusantara-markt.github.io/media/posts/7/responsive/indomie-xs.jpg 384w ,https://nusantara-markt.github.io/media/posts/7/responsive/indomie-sm.jpg 600w ,https://nusantara-markt.github.io/media/posts/7/responsive/indomie-md.jpg 768w ,https://nusantara-markt.github.io/media/posts/7/responsive/indomie-lg.jpg 1200w"  alt="" width="1000" height="444"></figure>
+<figure class="post__image align-center"><img loading="lazy"  src="https://nusantara-markt.com/media/posts/7/indomie.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://nusantara-markt.com/media/posts/7/responsive/indomie-xs.jpg 384w ,https://nusantara-markt.com/media/posts/7/responsive/indomie-sm.jpg 600w ,https://nusantara-markt.com/media/posts/7/responsive/indomie-md.jpg 768w ,https://nusantara-markt.com/media/posts/7/responsive/indomie-lg.jpg 1200w"  alt="" width="1000" height="444"></figure>
 <p class="blogs_p">Indomie is an Indonesian instant noodle brand. The instant noodle product comes in dozens of flavors, but there is one particular product that everybody just loves: Indomie Goreng or the fried noodle. It tastes so good that even the aroma can wake you up in the morning.</p>
 <p class="blogs_p">Believe it or not, Indonesians who usually bring at least ten packs of Indomie Goreng when they are going abroad. Trivia about Indomie: a restaurant in Australia even offers Indomie Burger as their signature dish.</p>
 <h3>Soto</h3>
-<figure class="post__image align-center"><img loading="lazy"  src="https://nusantara-markt.github.io/media/posts/7/soto.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://nusantara-markt.github.io/media/posts/7/responsive/soto-xs.jpg 384w ,https://nusantara-markt.github.io/media/posts/7/responsive/soto-sm.jpg 600w ,https://nusantara-markt.github.io/media/posts/7/responsive/soto-md.jpg 768w ,https://nusantara-markt.github.io/media/posts/7/responsive/soto-lg.jpg 1200w"  alt="" width="1000" height="444"></figure>
+<figure class="post__image align-center"><img loading="lazy"  src="https://nusantara-markt.com/media/posts/7/soto.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://nusantara-markt.com/media/posts/7/responsive/soto-xs.jpg 384w ,https://nusantara-markt.com/media/posts/7/responsive/soto-sm.jpg 600w ,https://nusantara-markt.com/media/posts/7/responsive/soto-md.jpg 768w ,https://nusantara-markt.com/media/posts/7/responsive/soto-lg.jpg 1200w"  alt="" width="1000" height="444"></figure>
 <p class="blogs_p">Soto is a type of Indonesian soup that comprises of broth and ingredients that vary across the archipelago. Common type of Soto that you can find on the streets is Soto Lamongan, a Javanese Soto made of clear yellow soup flavored with chicken, eggs, cabbage, and vermicelli.</p>
 <p class="blogs_p">There so many types of Soto in Indonesia, including the “heavier” varieties like Soto Betawi or Coto Makassar, which broth is made of coconut milk.</p>
 <h3>Sate</h3>
-<figure class="post__image align-center"><img loading="lazy"  src="https://nusantara-markt.github.io/media/posts/7/sate.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://nusantara-markt.github.io/media/posts/7/responsive/sate-xs.jpg 384w ,https://nusantara-markt.github.io/media/posts/7/responsive/sate-sm.jpg 600w ,https://nusantara-markt.github.io/media/posts/7/responsive/sate-md.jpg 768w ,https://nusantara-markt.github.io/media/posts/7/responsive/sate-lg.jpg 1200w"  alt="" width="1000" height="444"></figure>
+<figure class="post__image align-center"><img loading="lazy"  src="https://nusantara-markt.com/media/posts/7/sate.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://nusantara-markt.com/media/posts/7/responsive/sate-xs.jpg 384w ,https://nusantara-markt.com/media/posts/7/responsive/sate-sm.jpg 600w ,https://nusantara-markt.com/media/posts/7/responsive/sate-md.jpg 768w ,https://nusantara-markt.com/media/posts/7/responsive/sate-lg.jpg 1200w"  alt="" width="1000" height="444"></figure>
 <p>Sate or Satay refers to meat skewers cook up over coals, and topped with creamy peanut sauce or sweet soy sauce. You can find this dish in literally anywhere in Indonesia.</p>
 <h3>Gado-Gado</h3>
-<figure class="post__image align-center"><img loading="lazy"  src="https://nusantara-markt.github.io/media/posts/7/gado-2.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://nusantara-markt.github.io/media/posts/7/responsive/gado-2-xs.jpg 384w ,https://nusantara-markt.github.io/media/posts/7/responsive/gado-2-sm.jpg 600w ,https://nusantara-markt.github.io/media/posts/7/responsive/gado-2-md.jpg 768w ,https://nusantara-markt.github.io/media/posts/7/responsive/gado-2-lg.jpg 1200w"  alt="" width="1000" height="444"></figure>
+<figure class="post__image align-center"><img loading="lazy"  src="https://nusantara-markt.com/media/posts/7/gado-2.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://nusantara-markt.com/media/posts/7/responsive/gado-2-xs.jpg 384w ,https://nusantara-markt.com/media/posts/7/responsive/gado-2-sm.jpg 600w ,https://nusantara-markt.com/media/posts/7/responsive/gado-2-md.jpg 768w ,https://nusantara-markt.com/media/posts/7/responsive/gado-2-lg.jpg 1200w"  alt="" width="1000" height="444"></figure>
 <p>This is one of Indonesia’s famous dishes, essentially a cooked vegetable salad. At its base are boiled long beans, spinach or water spinach, corn, carrot, bean sprout, cucumber, and sometimes with fried tofu and tempe. All is topped with the classic peanut sauce.</p>
 <h3>Bakso</h3>
 <figure class="blogs__img align-center"><img loading="lazy"  src="https://nusantara-markt.com/assets/img/blogs/blogs_002/bakso.jpg" data-is-external-image="true"  alt=""></figure>
@@ -437,21 +437,21 @@
         <author>
             <name>IndoGoods</name>
         </author>
-        <link href="https://nusantara-markt.github.io/halawa-flour.html"/>
-        <id>https://nusantara-markt.github.io/halawa-flour.html</id>
+        <link href="https://nusantara-markt.com/halawa-flour.html"/>
+        <id>https://nusantara-markt.com/halawa-flour.html</id>
             <category term="Seasonings"/>
 
         <updated>2022-01-13T16:10:26+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://nusantara-markt.github.io/media/posts/5/hlzq0d5i-2.png" alt="" />
+                        <img src="https://nusantara-markt.com/media/posts/5/hlzq0d5i-2.png" alt="" />
                     Order Item Ingredients Wheat flour, tapioca flour, salt, flavor enhancer, monosodium glutamate, shallot, pepper, garlic, curry powder, hydrolyzed soy protein&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://nusantara-markt.github.io/media/posts/5/hlzq0d5i-2.png" alt="" />
-                <p><a href="https://nusantara-markt.github.io" class="btn">Order Item</a></p>
+                    <img src="https://nusantara-markt.com/media/posts/5/hlzq0d5i-2.png" alt="" />
+                <p><a href="https://nusantara-markt.com" class="btn">Order Item</a></p>
 <p> </p>
 <p class="about__description"><strong>Ingredients</strong><br>Wheat flour, tapioca flour, salt, flavor enhancer, monosodium glutamate, shallot, pepper, garlic, curry powder, hydrolyzed soy protein</p>
 <p class="about__description"><strong>Standard</strong><br>ISO 22000:2005 (food savety management)<br>HAS 23000 (halal assurance system)<br>ISO 14001 (environment management)<br>OHSAS 18001 (health and security)</p>
@@ -463,21 +463,21 @@
         <author>
             <name>IndoGoods</name>
         </author>
-        <link href="https://nusantara-markt.github.io/halawa-mushroom.html"/>
-        <id>https://nusantara-markt.github.io/halawa-mushroom.html</id>
+        <link href="https://nusantara-markt.com/halawa-mushroom.html"/>
+        <id>https://nusantara-markt.com/halawa-mushroom.html</id>
             <category term="Seasonings"/>
 
         <updated>2022-01-13T16:10:15+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://nusantara-markt.github.io/media/posts/4/mushroom.png" alt="" />
+                        <img src="https://nusantara-markt.com/media/posts/4/mushroom.png" alt="" />
                     Order Item Ingredients Salt, sugar, flavor enhancer, mushroom, yeast extract, soy sauce, I+G Standard ISO 22000:2005 (food savety management) HAS&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://nusantara-markt.github.io/media/posts/4/mushroom.png" alt="" />
-                <p><a href="https://nusantara-markt.github.io" class="btn">Order Item</a></p>
+                    <img src="https://nusantara-markt.com/media/posts/4/mushroom.png" alt="" />
+                <p><a href="https://nusantara-markt.com" class="btn">Order Item</a></p>
 <p> </p>
 <p class="about__description"><strong>Ingredients</strong><br>Salt, sugar, flavor enhancer, mushroom, yeast extract, soy sauce, I+G</p>
 <p class="about__description"><strong>Standard</strong><br>ISO 22000:2005 (food savety management)<br>HAS 23000 (halal assurance system)<br>ISO 14001 (environment management)<br>OHSAS 18001 (health and security)</p>
