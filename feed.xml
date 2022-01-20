@@ -3,7 +3,7 @@
     <title>Nusantara Markt</title>
     <link href="https://nusantara-markt.com/feed.xml" rel="self" />
     <link href="https://nusantara-markt.com" />
-    <updated>2022-01-19T10:07:26+01:00</updated>
+    <updated>2022-01-20T14:47:35+01:00</updated>
     <author>
         <name>IndoGoods</name>
     </author>
@@ -441,18 +441,18 @@
         <id>https://nusantara-markt.com/halawa-flour.html</id>
             <category term="Seasonings"/>
 
-        <updated>2022-01-13T16:10:26+01:00</updated>
+        <updated>2022-01-20T14:47:35+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://nusantara-markt.com/media/posts/5/hlzq0d5i-2.png" alt="" />
-                    Order Item Ingredients Wheat flour, tapioca flour, salt, flavor enhancer, monosodium glutamate, shallot, pepper, garlic, curry powder, hydrolyzed soy protein&hellip;
+                    Order Item Unit: carton/pcs Ingredients Wheat flour, tapioca flour, salt, flavor enhancer, monosodium glutamate, shallot, pepper, garlic, curry powder, hydrolyzed&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://nusantara-markt.com/media/posts/5/hlzq0d5i-2.png" alt="" />
                 <p><a href="https://nusantara-markt.com" class="btn">Order Item</a></p>
-<p> </p>
+<p><em>Unit: carton/pcs</em></p>
 <p class="about__description"><strong>Ingredients</strong><br>Wheat flour, tapioca flour, salt, flavor enhancer, monosodium glutamate, shallot, pepper, garlic, curry powder, hydrolyzed soy protein</p>
 <p class="about__description"><strong>Standard</strong><br>ISO 22000:2005 (food savety management)<br>HAS 23000 (halal assurance system)<br>ISO 14001 (environment management)<br>OHSAS 18001 (health and security)</p>
             ]]>
@@ -467,18 +467,18 @@
         <id>https://nusantara-markt.com/halawa-mushroom.html</id>
             <category term="Seasonings"/>
 
-        <updated>2022-01-13T16:10:15+01:00</updated>
+        <updated>2022-01-20T14:47:27+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://nusantara-markt.com/media/posts/4/mushroom.png" alt="" />
-                    Order Item Ingredients Salt, sugar, flavor enhancer, mushroom, yeast extract, soy sauce, I+G Standard ISO 22000:2005 (food savety management) HAS&hellip;
+                    Order Item Unit: carton/pcs Ingredients Salt, sugar, flavor enhancer, mushroom, yeast extract, soy sauce, I+G Standard ISO 22000:2005 (food savety&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://nusantara-markt.com/media/posts/4/mushroom.png" alt="" />
                 <p><a href="https://nusantara-markt.com" class="btn">Order Item</a></p>
-<p> </p>
+<p><em>Unit: carton/pcs</em></p>
 <p class="about__description"><strong>Ingredients</strong><br>Salt, sugar, flavor enhancer, mushroom, yeast extract, soy sauce, I+G</p>
 <p class="about__description"><strong>Standard</strong><br>ISO 22000:2005 (food savety management)<br>HAS 23000 (halal assurance system)<br>ISO 14001 (environment management)<br>OHSAS 18001 (health and security)</p>
             ]]>
