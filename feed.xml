@@ -3,7 +3,7 @@
     <title>Nusantara Markt</title>
     <link href="https://nusantara-markt.com/feed.xml" rel="self" />
     <link href="https://nusantara-markt.com" />
-    <updated>2022-02-07T16:34:53+01:00</updated>
+    <updated>2022-02-07T16:57:22+01:00</updated>
     <author>
         <name>IndoGoods</name>
     </author>
@@ -16,9 +16,10 @@
         </author>
         <link href="https://nusantara-markt.com/teh-gelang-sindangpanon-75gr.html"/>
         <id>https://nusantara-markt.com/teh-gelang-sindangpanon-75gr.html</id>
+            <category term="Tea"/>
             <category term="Beverages"/>
 
-        <updated>2022-02-07T16:34:40+01:00</updated>
+        <updated>2022-02-07T16:57:22+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://nusantara-markt.com/media/posts/17/teh-gelang-75gr.jpg" alt="" />
@@ -42,9 +43,10 @@
         </author>
         <link href="https://nusantara-markt.com/teh-gelang-100gr.html"/>
         <id>https://nusantara-markt.com/teh-gelang-100gr.html</id>
+            <category term="Tea"/>
             <category term="Beverages"/>
 
-        <updated>2022-02-07T16:34:53+01:00</updated>
+        <updated>2022-02-07T16:57:12+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://nusantara-markt.com/media/posts/16/teh-gelang-100gr.jpg" alt="" />
