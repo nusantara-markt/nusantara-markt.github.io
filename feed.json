@@ -10,6 +10,23 @@
     },
     "items": [
         {
+            "id": "https://nusantara-markt.com/pud-white-tea.html",
+            "url": "https://nusantara-markt.com/pud-white-tea.html",
+            "title": "Pud White Tea",
+            "summary": "Order Item Size: 10 gr/pcs Ingredients 100% Shoot tea (white tea) Standard/Certification SNI 6729:2016 (National Standard) ICERT - 5073/LSO-009-IDN/9/19 (EU&hellip;",
+            "content_html": "<p><a href=\"https://nusantara-markt.com/order/\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn\">Order Item</a></p>\n<p><em>Size: 10 gr/pcs</em></p>\n<p class=\"about__description\"><strong>Ingredients</strong><br>100% Shoot tea (white tea)</p>\n<p class=\"about__description\"><strong>Standard/Certification</strong><br>SNI 6729:2016 (National Standard)<br>ICERT - 5073/LSO-009-IDN/9/19 (EU Certificate - Organic)<br>P-IRT No: 2103214020444-20</p>\n<hr>\n<p>Pud White Tea is 100% white tea from Sindang Panon Village, West Java, Indonesia. Premium authentic Indonesian white tea, made by traditional methods completely handcrafted with a premium signature aroma.</p>\n<p>Pud White Tea is high in anti-oxidants, suitable for diet. It provides relaxation, improves the immune system, helps reduce aches and pains, helps prevent chronic diseases, improves the digestive system, stimulates brain function and maintains weight.</p>",
+            "image": "https://nusantara-markt.com/media/posts/22/pud-white-ta.png",
+            "author": {
+                "name": "IndoGoods"
+            },
+            "tags": [
+                   "Tea",
+                   "Beverages"
+            ],
+            "date_published": "2022-02-12T17:57:23+01:00",
+            "date_modified": "2022-02-12T17:57:23+01:00"
+        },
+        {
             "id": "https://nusantara-markt.com/base-genep-balinese-spice-heritage.html",
             "url": "https://nusantara-markt.com/base-genep-balinese-spice-heritage.html",
             "title": "Base Genep, Balinese Spice Heritage",
@@ -84,7 +101,7 @@
                    "Beverages"
             ],
             "date_published": "2022-02-07T15:14:18+01:00",
-            "date_modified": "2022-02-12T17:19:07+01:00"
+            "date_modified": "2022-02-12T17:57:36+01:00"
         },
         {
             "id": "https://nusantara-markt.com/teh-gelang-100gr.html",
@@ -101,7 +118,7 @@
                    "Beverages"
             ],
             "date_published": "2022-02-07T14:27:58+01:00",
-            "date_modified": "2022-02-12T17:18:57+01:00"
+            "date_modified": "2022-02-12T17:57:46+01:00"
         },
         {
             "id": "https://nusantara-markt.com/the-76th-indonesian-independence-day-organized-by-diaspora-indonesia-in-bremen-ev.html",
@@ -145,20 +162,6 @@
             ],
             "date_published": "2022-01-13T15:42:52+01:00",
             "date_modified": "2022-02-07T13:12:36+01:00"
-        },
-        {
-            "id": "https://nusantara-markt.com/partnership-application.html",
-            "url": "https://nusantara-markt.com/partnership-application.html",
-            "title": "Partnership Application",
-            "summary": " We believe in partnerships. We believe in long-term relationships that bring value to both businesses. We believe in win-wins.",
-            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://nusantara-markt.com/media/posts/12/Untitled-2.jpg\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://nusantara-markt.com/media/posts/12/responsive/Untitled-2-xs.jpg 384w ,https://nusantara-markt.com/media/posts/12/responsive/Untitled-2-sm.jpg 600w ,https://nusantara-markt.com/media/posts/12/responsive/Untitled-2-md.jpg 768w ,https://nusantara-markt.com/media/posts/12/responsive/Untitled-2-lg.jpg 1200w\"  alt=\"\" width=\"1002\" height=\"430\"></figure>\n<p>We believe in partnerships. We believe in long-term relationships that bring value to both businesses. We believe in win-wins. We care about your products and we want to promote them as your partner.</p>\n<p>Please fill out our <a href=\"https://nusantara-markt.com/partnership-form/\" target=\"_blank\" rel=\"noopener noreferrer\">Partnership Application Form</a>. We will reach out to you soon after that to continue your Partnership Application process. </p>",
-            "author": {
-                "name": "IndoGoods"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-01-13T15:41:59+01:00",
-            "date_modified": "2022-02-07T13:12:09+01:00"
         }
     ]
 }
