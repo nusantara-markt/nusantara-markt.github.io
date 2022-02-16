@@ -3,12 +3,69 @@
     <title>Nusantara Markt</title>
     <link href="https://nusantara-markt.com/feed.xml" rel="self" />
     <link href="https://nusantara-markt.com" />
-    <updated>2022-02-15T12:37:27+01:00</updated>
+    <updated>2022-02-16T09:45:51+01:00</updated>
     <author>
         <name>IndoGoods</name>
     </author>
     <id>https://nusantara-markt.com</id>
 
+    <entry>
+        <title>Sweet Potato Chips</title>
+        <author>
+            <name>IndoGoods</name>
+        </author>
+        <link href="https://nusantara-markt.com/sweet-potato-chips.html"/>
+        <id>https://nusantara-markt.com/sweet-potato-chips.html</id>
+            <category term="Snacks"/>
+            <category term="Food"/>
+
+        <updated>2022-02-16T09:45:51+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://nusantara-markt.com/media/posts/30/Sweet-Potato-Chips.png" alt="" />
+                    Order Item Size: 175 gr/pcs Ingredients Purple Sweet Potato, Vegetable Oil Standard/Certification P-IRT No: 2153515050918-22 Purple Sweet Potatoes are grown&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://nusantara-markt.com/media/posts/30/Sweet-Potato-Chips.png" alt="" />
+                <p><a href="https://nusantara-markt.com/order/" target="_blank" rel="noopener noreferrer" class="btn">Order Item</a></p>
+<p><em>Size: 175 gr/pcs</em></p>
+<p class="about__description"><strong>Ingredients</strong><br>Purple Sweet Potato, Vegetable Oil</p>
+<p><strong>Standard/Certification</strong><br>P-IRT No: 2153515050918-22</p>
+<hr>
+<p>Purple Sweet Potatoes are grown on volcanic soil in Indonesia. It contains carbohydrates, vitamins and minerals. The purple color shows that it contains a lot of anthocyanins as antioxidants.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Palm Sugar 500gr</title>
+        <author>
+            <name>IndoGoods</name>
+        </author>
+        <link href="https://nusantara-markt.com/palm-sugar-500gr.html"/>
+        <id>https://nusantara-markt.com/palm-sugar-500gr.html</id>
+            <category term="Spices"/>
+            <category term="Food"/>
+
+        <updated>2022-02-16T09:26:20+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://nusantara-markt.com/media/posts/29/gula-aren-500gr.png" alt="" />
+                    Order Item Size: 500 gr/pcs Ingredients 100% Palm sugar Made from sap water, then processed into sugar. Only uses natural&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://nusantara-markt.com/media/posts/29/gula-aren-500gr.png" alt="" />
+                <p><a href="https://nusantara-markt.com/order/" target="_blank" rel="noopener noreferrer" class="btn">Order Item</a></p>
+<p><em>Size: 500 gr/pcs</em></p>
+<p class="about__description"><strong>Ingredients</strong><br>100% Palm sugar</p>
+<hr>
+<p>Made from sap water, then processed into sugar. Only uses natural ingredients without mixture.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Fried Garlic 85gr</title>
         <author>
@@ -49,7 +106,7 @@
             <category term="Snacks"/>
             <category term="Food"/>
 
-        <updated>2022-02-15T12:35:13+01:00</updated>
+        <updated>2022-02-16T09:43:59+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://nusantara-markt.com/media/posts/27/bw-goreng-spicy-100gr.png" alt="" />
@@ -79,7 +136,7 @@
             <category term="Snacks"/>
             <category term="Food"/>
 
-        <updated>2022-02-15T12:35:31+01:00</updated>
+        <updated>2022-02-16T09:45:17+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://nusantara-markt.com/media/posts/26/bw-goreng-100gr.png" alt="" />
@@ -109,7 +166,7 @@
             <category term="Spices"/>
             <category term="Food"/>
 
-        <updated>2022-02-15T12:08:12+01:00</updated>
+        <updated>2022-02-16T09:25:30+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://nusantara-markt.com/media/posts/25/gula-aren-300gr.png" alt="" />
@@ -239,101 +296,6 @@
 <h2>Base Genep in royal dishes : Bebek Timbungan</h2>
 <figure class="post__image"><img loading="lazy"  src="https://nusantara-markt.com/media/posts/21/bebek.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://nusantara-markt.com/media/posts/21/responsive/bebek-xs.jpg 384w ,https://nusantara-markt.com/media/posts/21/responsive/bebek-sm.jpg 600w ,https://nusantara-markt.com/media/posts/21/responsive/bebek-md.jpg 768w ,https://nusantara-markt.com/media/posts/21/responsive/bebek-lg.jpg 1200w"  alt="" width="930" height="742"></figure>
 <p>Bebek timbungan is a culinary heritage written on an ancient manuscript called “Dharma Caruban”, a manuscript that writes guidelines for preparing dishes for Balinese kings. The dish went through a unique cooking process in a bamboo with spice blend of Base Genep. It took 12 hours to have the spice blend infused in the duck meat. The marinating process is followed by smoking the duck in the bamboo.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Banda Islands: Where the Story Began</title>
-        <author>
-            <name>IndoGoods</name>
-        </author>
-        <link href="https://nusantara-markt.com/banda-islands-where-the-story-began.html"/>
-        <id>https://nusantara-markt.com/banda-islands-where-the-story-began.html</id>
-
-        <updated>2022-02-08T20:12:01+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://nusantara-markt.com/media/posts/20/shutterstock_1845705406.jpg" alt="" />
-                    Maluku Islands is an archipelago located in eastern Indonesia. The archipelago comprises of over 1000 islands. The more well known&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://nusantara-markt.com/media/posts/20/shutterstock_1845705406.jpg" alt="" />
-                <p>Maluku Islands is an archipelago located in eastern Indonesia. The archipelago comprises of over 1000 islands. The more well known islands for its spices are Ternate, Tidore, and Banda Islands. Run in Banda Islands is where nutmeg grew native and where the story began.</p>
-<h2>Banda Neira</h2>
-<figure class="post__image"><img loading="lazy"  src="https://nusantara-markt.com/media/posts/20/3._Banda_Islands.max-1000x1000.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://nusantara-markt.com/media/posts/20/responsive/3._Banda_Islands.max-1000x1000-xs.png 384w ,https://nusantara-markt.com/media/posts/20/responsive/3._Banda_Islands.max-1000x1000-sm.png 600w ,https://nusantara-markt.com/media/posts/20/responsive/3._Banda_Islands.max-1000x1000-md.png 768w ,https://nusantara-markt.com/media/posts/20/responsive/3._Banda_Islands.max-1000x1000-lg.png 1200w"  alt="" width="1000" height="493"></figure>
-<p>Nutmeg is grown on the island and trade brought the inhabitants great wealth in the pre-modern period. Nutmeg was used widely for preservation. Until the early 17th century, the Banda Islands were ruled by locals called the <i>Orangkaya</i>. </p>
-<h2>The Spices that inspires the World</h2>
-<figure class="post__image"><img loading="lazy"  src="https://nusantara-markt.com/media/posts/20/2aa01c1d9f52a34cfc05b3588f37257a.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://nusantara-markt.com/media/posts/20/responsive/2aa01c1d9f52a34cfc05b3588f37257a-xs.jpg 384w ,https://nusantara-markt.com/media/posts/20/responsive/2aa01c1d9f52a34cfc05b3588f37257a-sm.jpg 600w ,https://nusantara-markt.com/media/posts/20/responsive/2aa01c1d9f52a34cfc05b3588f37257a-md.jpg 768w ,https://nusantara-markt.com/media/posts/20/responsive/2aa01c1d9f52a34cfc05b3588f37257a-lg.jpg 1200w"  alt="" width="736" height="552"></figure>
-<p>These nutmeg and other spices from the area were known for its anti-microbial feature, food preservation and health benefits since early as 1400 BC. The presence of this natural resource became critical in setting course of power in the beginning of globalisation. Medieval Europe was obsessed with Indonesian spices as it helped preserve food and add flavors to its cuisine.</p>
-<h2>The Taste of Mollucas</h2>
-<figure class="post__image"><img loading="lazy"  src="https://nusantara-markt.com/media/posts/20/2.Nutmeg.max-1000x1000.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://nusantara-markt.com/media/posts/20/responsive/2.Nutmeg.max-1000x1000-xs.png 384w ,https://nusantara-markt.com/media/posts/20/responsive/2.Nutmeg.max-1000x1000-sm.png 600w ,https://nusantara-markt.com/media/posts/20/responsive/2.Nutmeg.max-1000x1000-md.png 768w ,https://nusantara-markt.com/media/posts/20/responsive/2.Nutmeg.max-1000x1000-lg.png 1200w"  alt="" width="1000" height="667"></figure>
-<p>This is <i>pala</i>, or in English known as nutmeg, <i>noz-moscada </i>in Portuguese, a magical spice that mesmerises the world. A social mark of the high ranks and the wealthy for hundreds of years. During 10th century in Venice, one pound of nutmeg was worth more than one pound of gold.</p>
-<h2>The virtues of Nutmeg well recorded for centuries</h2>
-<figure class="post__image"><img loading="lazy"  src="https://nusantara-markt.com/media/posts/20/gerard.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://nusantara-markt.com/media/posts/20/responsive/gerard-xs.png 384w ,https://nusantara-markt.com/media/posts/20/responsive/gerard-sm.png 600w ,https://nusantara-markt.com/media/posts/20/responsive/gerard-md.png 768w ,https://nusantara-markt.com/media/posts/20/responsive/gerard-lg.png 1200w"  alt="" width="1000" height="362"></figure>
-<p>Nutmeg was explained in the Gerard's Herbal published in London, 1597. It wrote that nutmeg is good to amend bad breaths, good against cold diseases. During the Black Death, nutmeg prices exploded because people believed it might keep away the plague.</p>
-<h2>Banda Island dark and bloody history</h2>
-<figure class="post__image"><img loading="lazy"  src="https://nusantara-markt.com/media/posts/20/history.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://nusantara-markt.com/media/posts/20/responsive/history-xs.jpg 384w ,https://nusantara-markt.com/media/posts/20/responsive/history-sm.jpg 600w ,https://nusantara-markt.com/media/posts/20/responsive/history-md.jpg 768w ,https://nusantara-markt.com/media/posts/20/responsive/history-lg.jpg 1200w"  alt="" width="886" height="592"></figure>
-<p>The island's nutmeg and clove became crucial to colonialist countries from 1520s until 1800s. The fights to secure nutmeg and cloves monopoly was so extreme that in 1621 more than 13,000 Orangkaya were massacred by VOC lead by J.P. Coen leaving only 500 Orangkaya left.</p>
-<h2>Portrait of Nutmeg harvesters on Banda c.1865 -1885</h2>
-<figure class="post__image"><img loading="lazy"  src="https://nusantara-markt.com/media/posts/20/history-2.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://nusantara-markt.com/media/posts/20/responsive/history-2-xs.jpg 384w ,https://nusantara-markt.com/media/posts/20/responsive/history-2-sm.jpg 600w ,https://nusantara-markt.com/media/posts/20/responsive/history-2-md.jpg 768w ,https://nusantara-markt.com/media/posts/20/responsive/history-2-lg.jpg 1200w"  alt="" width="1000" height="397"></figure>
-<p>Many generations of nutmeg harvesters have lived in the island and it is through their hard work that nutmegs reached many places all over the world. </p>
-<h2>Nutmeg reaches Europe</h2>
-<figure class="post__image"><img loading="lazy"  src="https://nusantara-markt.com/media/posts/20/nutmeg.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://nusantara-markt.com/media/posts/20/responsive/nutmeg-xs.jpg 384w ,https://nusantara-markt.com/media/posts/20/responsive/nutmeg-sm.jpg 600w ,https://nusantara-markt.com/media/posts/20/responsive/nutmeg-md.jpg 768w ,https://nusantara-markt.com/media/posts/20/responsive/nutmeg-lg.jpg 1200w"  alt="" width="1590" height="698"></figure>
-<p>A <strong>pomander</strong>, from French <i>pomme d'ambre</i>, i.e., apple of amber, is a ball made for aromatics. Back in the days, this used to be attached onto a belt and was used as protection against Black Death or dissimulate certain mix or aromatics.</p>
-<p>This pomander is in spherical shape with six compartments each for cinnamon, rosemary, rose, nutmeg, <i>negelken</i> and <i>schlag.</i></p>
-<h2>...and Americas</h2>
-<figure class="post__image"><img loading="lazy"  src="https://nusantara-markt.com/media/posts/20/nutmegcracker.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://nusantara-markt.com/media/posts/20/responsive/nutmegcracker-xs.jpg 384w ,https://nusantara-markt.com/media/posts/20/responsive/nutmegcracker-sm.jpg 600w ,https://nusantara-markt.com/media/posts/20/responsive/nutmegcracker-md.jpg 768w ,https://nusantara-markt.com/media/posts/20/responsive/nutmegcracker-lg.jpg 1200w"  alt="" width="1456" height="702"></figure>
-<p>Nutmeg grater used to be a common use amongst traders, rulers alike. Such as this one, that <strong>belongs to Franklin D. Roosevelt father,</strong> James. These traders and rulers would keep this handy wherever they go to have a freshly grated nutmeg at any time.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Indonesia, the Spice Islands</title>
-        <author>
-            <name>IndoGoods</name>
-        </author>
-        <link href="https://nusantara-markt.com/indonesia-the-spice-islands.html"/>
-        <id>https://nusantara-markt.com/indonesia-the-spice-islands.html</id>
-
-        <updated>2022-02-08T19:01:32+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://nusantara-markt.com/media/posts/19/shutterstock_1161085942-2.jpg" alt="" />
-                    Indonesia is the second largest mega bio diversity in the world. There are over 30,000 species of spices can be&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://nusantara-markt.com/media/posts/19/shutterstock_1161085942-2.jpg" alt="" />
-                <p>Indonesia is the second largest mega bio diversity in the world. There are over 30,000 species of spices can be found in the archipelago. The breadth and nuance of taste coming from Indonesian spices and its amazing spice blends truly spices up the world.</p>
-<h2>Indonesian dishes are spice-based</h2>
-<p>There are four categories of spice, dry spices (i.e. pepper, cumin), fresh spices (i.e. galangal), aromatic spice (i.e. pandanus leaf or turmeric leaf) and acids (i.e)  tamarind or asam gelugur. The following are specific spices that have become local wisdom in different regions.</p>
-<h2>Cloves (Syzygium aromaticum)</h2>
-<figure class="post__image"><img loading="lazy"  src="https://nusantara-markt.com/media/posts/19/shutterstock_1098377567.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://nusantara-markt.com/media/posts/19/responsive/shutterstock_1098377567-xs.jpg 384w ,https://nusantara-markt.com/media/posts/19/responsive/shutterstock_1098377567-sm.jpg 600w ,https://nusantara-markt.com/media/posts/19/responsive/shutterstock_1098377567-md.jpg 768w ,https://nusantara-markt.com/media/posts/19/responsive/shutterstock_1098377567-lg.jpg 1200w"  alt="" width="1000" height="633"></figure>
-<p>The finest quality of cloves are found in Indonesia. Originally grown in Ternate and Tidore, cloves are also grown in East Java. Cloves used as hint of spicy-sweet taste for meat and fish and sometimes used in food preservation.</p>
-<h2>Kecombrang (Torch Ginger, Etlingera elatior) from Aceh</h2>
-<figure class="post__image"><img loading="lazy"  src="https://nusantara-markt.com/media/posts/19/shutterstock_2040163487.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://nusantara-markt.com/media/posts/19/responsive/shutterstock_2040163487-xs.jpg 384w ,https://nusantara-markt.com/media/posts/19/responsive/shutterstock_2040163487-sm.jpg 600w ,https://nusantara-markt.com/media/posts/19/responsive/shutterstock_2040163487-md.jpg 768w ,https://nusantara-markt.com/media/posts/19/responsive/shutterstock_2040163487-lg.jpg 1200w"  alt="" width="1000" height="750"></figure>
-<p><i>Combrang </i>have a rich and strong fragrance to balance spicy dishes or to accentuate a dish. This beautiful flower bud in shades of pink, white and light green is used in variety of dishes and condiments. </p>
-<h2>Andaliman pepper (Zanthoxylum acanthopodium)</h2>
-<figure class="post__image"><img loading="lazy"  src="https://nusantara-markt.com/media/posts/19/shutterstock_1949895871.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://nusantara-markt.com/media/posts/19/responsive/shutterstock_1949895871-xs.jpg 384w ,https://nusantara-markt.com/media/posts/19/responsive/shutterstock_1949895871-sm.jpg 600w ,https://nusantara-markt.com/media/posts/19/responsive/shutterstock_1949895871-md.jpg 768w ,https://nusantara-markt.com/media/posts/19/responsive/shutterstock_1949895871-lg.jpg 1200w"  alt="" width="1000" height="594"></figure>
-<p>In Indonesia, <i>andaliman </i>is often referred to as "Indonesian lemon pepper" and is widely cultivated in Northern Sumatra. Batak people use <i>andaliman </i>in dishes such as saksang, which consist bits of pork meat and viscera stewed in a thick spicy sauce.</p>
-<h2>Pala (Myristica fragrans) from Eastern Indonesia</h2>
-<figure class="post__image"><img loading="lazy"  src="https://nusantara-markt.com/media/posts/19/shutterstock_1605920476.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://nusantara-markt.com/media/posts/19/responsive/shutterstock_1605920476-xs.jpg 384w ,https://nusantara-markt.com/media/posts/19/responsive/shutterstock_1605920476-sm.jpg 600w ,https://nusantara-markt.com/media/posts/19/responsive/shutterstock_1605920476-md.jpg 768w ,https://nusantara-markt.com/media/posts/19/responsive/shutterstock_1605920476-lg.jpg 1200w"  alt="" width="1000" height="667"></figure>
-<p><i>Myristica fragrans</i> (<strong>fragrant nutmeg) </strong>or locally known as <i>pala</i> is a dark-leaved evergreen tree cultivated for spices derived from its fruit: nutmeg, from its dried seed, and mace, from the dried seed covering.</p>
-<h2>Galangal or Laos (Alpina Galanga)</h2>
-<figure class="post__image"><img loading="lazy"  src="https://nusantara-markt.com/media/posts/19/shutterstock_1733233322.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://nusantara-markt.com/media/posts/19/responsive/shutterstock_1733233322-xs.jpg 384w ,https://nusantara-markt.com/media/posts/19/responsive/shutterstock_1733233322-sm.jpg 600w ,https://nusantara-markt.com/media/posts/19/responsive/shutterstock_1733233322-md.jpg 768w ,https://nusantara-markt.com/media/posts/19/responsive/shutterstock_1733233322-lg.jpg 1200w"  alt="" width="1000" height="667"></figure>
-<p>Many would mistake this with ginger. Galangal is used to elevate and intensifies flavors in heavily spiced dishes.</p>
-<h2>Cinnamon or Kayu Manis (Cinnamomum cassia)</h2>
-<figure class="post__image"><img loading="lazy"  src="https://nusantara-markt.com/media/posts/19/shutterstock_1047637936.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://nusantara-markt.com/media/posts/19/responsive/shutterstock_1047637936-xs.jpg 384w ,https://nusantara-markt.com/media/posts/19/responsive/shutterstock_1047637936-sm.jpg 600w ,https://nusantara-markt.com/media/posts/19/responsive/shutterstock_1047637936-md.jpg 768w ,https://nusantara-markt.com/media/posts/19/responsive/shutterstock_1047637936-lg.jpg 1200w"  alt="" width="1000" height="556"></figure>
-<p>In many Indonesian dishes and drinks, cinnamon is used to accentuate the flavor with its peppery-sweet taste. Cinnamon trees are part of panoramic view of Sumatra highlands and parts of Java. Cinnamon was first cultivated in the West Sumatra in regions around Padang.</p>
-<h2>Kluwek or Keluwek (Pangium edule)</h2>
-<figure class="post__image"><img loading="lazy"  src="https://nusantara-markt.com/media/posts/19/kluwak.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://nusantara-markt.com/media/posts/19/responsive/kluwak-xs.jpg 384w ,https://nusantara-markt.com/media/posts/19/responsive/kluwak-sm.jpg 600w ,https://nusantara-markt.com/media/posts/19/responsive/kluwak-md.jpg 768w ,https://nusantara-markt.com/media/posts/19/responsive/kluwak-lg.jpg 1200w"  alt="" width="1000" height="444"></figure>
-<p>The black nut of kluwek are fruits of tree native to the mangrove swamps of Southeast Asia. It produces a large poisonous fruit which can be made edible through simple fermentation. Fermented kluwek are brown and greasy commonly used in Rawon, a popular East Javanese beef stew.</p>
-<h2>Asam Gelugur (Garcinia atroviridis)</h2>
-<figure class="post__image"><img loading="lazy"  src="https://nusantara-markt.com/media/posts/19/shutterstock_1640671444.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://nusantara-markt.com/media/posts/19/responsive/shutterstock_1640671444-xs.jpg 384w ,https://nusantara-markt.com/media/posts/19/responsive/shutterstock_1640671444-sm.jpg 600w ,https://nusantara-markt.com/media/posts/19/responsive/shutterstock_1640671444-md.jpg 768w ,https://nusantara-markt.com/media/posts/19/responsive/shutterstock_1640671444-lg.jpg 1200w"  alt="" width="1000" height="613"></figure>
-<p>Native to North Sumatra, asam gelugur is a staple to local people. The taste is sour and tart. The fruit is sliced and dried before consumed.</p>
             ]]>
         </content>
     </entry>
